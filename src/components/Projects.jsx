@@ -20,7 +20,7 @@ const projects = [
     id: 3,
     name: "Portfolio",
     image: portfolioImage,
-    github: "https://github.com/Maloth-12/Portfolio",
+    github: "https://github.com/Maloth-12/PremPortfolio",
   },
 ];
 
